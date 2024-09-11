@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning school programm of 10-11 class
+Я программист, учусь в колледже hexlet на базе 9 класса
